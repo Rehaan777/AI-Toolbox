@@ -1,7 +1,7 @@
-# AI-Tools-Directory
+# AI-Toolbox
 
 ## Description 
-Welcome to the AI-Tools-Directory! This repository contains a curated list of 20 AI-based tools, complete with their links for easy access and automation. Whether you're looking for writing assistants, image generators, video creation tools, or language translation services, this collection aims to provide a comprehensive resource for leveraging AI technology in various domains.
+Welcome to the AI-Toolbox! This repository contains a curated list of 20 AI-based tools, complete with their links for easy access and automation. Whether you're looking for writing assistants, image generators, video creation tools, or language translation services, this collection aims to provide a comprehensive resource for leveraging AI technology in various domains.
 
 ## Features 
 1. **Curated List of 20 AI Tools**: Access a variety of AI tools across different categories.
