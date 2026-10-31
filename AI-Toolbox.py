@@ -47,6 +47,7 @@ print("17.Chatbots")
 print("18.Photo Editing")
 print("19.Video Creation")
 print("20.Image Generation")
+print("21.App Testing")
 
 while True:
 
@@ -112,6 +113,9 @@ while True:
    elif tools == 20:
     print("DeepDream Generator can help - https://deepdreamgenerator.com/")
     break
+   elif tools == 21:
+    print("agent-qa can help - https://vostride.com")
+    break
    else:
-    print("Invalid number. Please enter a number from 1-20")
+    print("Invalid number. Please enter a number from 1-21")
 
