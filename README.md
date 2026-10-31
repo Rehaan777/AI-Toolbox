@@ -1,10 +1,10 @@
 # AI-Toolbox
 
 ## Description 
-Welcome to the AI-Toolbox! This repository contains a curated list of 20 AI-based tools, complete with their links for easy access and automation. Whether you're looking for writing assistants, image generators, video creation tools, or language translation services, this collection aims to provide a comprehensive resource for leveraging AI technology in various domains.
+Welcome to the AI-Toolbox! This repository contains a curated list of 21 AI-based tools, complete with their links for easy access and automation. Whether you're looking for writing assistants, image generators, video creation tools, or language translation services, this collection aims to provide a comprehensive resource for leveraging AI technology in various domains.
 
 ## Features 
-1. **Curated List of 20 AI Tools**: Access a variety of AI tools across different categories.
+1. **Curated List of 21 AI Tools**: Access a variety of AI tools across different categories.
 2. **Easy Navigation**: Quickly find and access the tool you need with direct links.
 3. **Automation Friendly**: Simplifies the process of integrating and using AI tools in your projects.
 
@@ -30,6 +30,7 @@ Welcome to the AI-Toolbox! This repository contains a curated list of 20 AI-base
 - [Fotor](https://www.fotor.com)
 - [Pictory](https://pictory.ai)
 - [DeepDream Generator](https://deepdreamgenerator.com)
+- [agent-qa](https://vostride.com) — Natural-language web and mobile testing with memidex persistent memory, validated self-improvement and reviewable evidence.
 
 ## How to Use 
 1. **Clone the repository**: `git clone https://github.com/Rehaan777/AI-Toolbox.git`
